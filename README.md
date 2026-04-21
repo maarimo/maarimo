@@ -6,7 +6,8 @@ Hi 👋, I'm Matheus Amorim
 I’m a Software Engineering student passionate about technology and solving real-world problems in practice.  
 I work mainly with Java and Spring Boot, building APIs and systems with a focus on simplicity, organization, and real value.
 
-Currently, I’m focused on evolving as a developer, improving my skills and building projects that actually help people.
+Currently, I’m focused on evolving as a developer, improving my skills and building projects that actually help people.  
+I’m also learning Mandarin Chinese, expanding my communication skills and global perspective.
 
 ---
 
@@ -28,6 +29,7 @@ Currently, I’m focused on evolving as a developer, improving my skills and bui
 🗄️ Relational databases (PostgreSQL)  
 🔐 Authentication & business rules  
 📚 Constant learning and hands-on projects  
+🌏 Learning Mandarin Chinese  
 
 ---
 
@@ -53,6 +55,15 @@ Tools
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarimo&layout=compact&theme=tokyonight" />
 </p>
 
+---
+
+🚀 Philosophy
+> _"I learn by doing. The goal is not just to code, but to understand and build solutions that make sense."_
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Open to opportunities as a Junior Developer
 ---
 
 🚀 Philosophy
