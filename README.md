@@ -56,8 +56,3 @@ Tools
 </p>
 
 ---
-
-🚀 Philosophy
-> _"I learn by doing. The goal is not just to code, but to understand and build solutions that make sense."_
-
----
