@@ -1,76 +1,64 @@
-Hi 👋, I'm Herbert Souza
-🚀 Senior Software Engineer | JavaScript & .NET Specialist  
-🇧🇷 Brazil
-I build scalable products, SaaS platforms, and high-performance web systems.  
-I’m deeply focused on architecture, performance, clean code, and business-driven solutions.
-I also create content and share knowledge on software development, SaaS, and tech entrepreneurship.
+Hi 👋, I'm Matheus Amorim  
+
+🚀 Back-end Developer | Java & Spring Boot  
+🇧🇷 Brazil  
+
+I’m a Software Engineering student passionate about technology and solving real-world problems in practice.  
+I work mainly with Java and Spring Boot, building APIs and systems with a focus on simplicity, organization, and real value.
+
+Currently, I’m focused on evolving as a developer, improving my skills and building projects that actually help people.
+
 ---
+
 🌐 Where to find me
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/maarimo">
+    <img src="https://img.shields.io/badge/GitHub-MAARIMO-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://www.linkedin.com/in/matheus-amorimas">
+    <img src="https://img.shields.io/badge/LinkedIn-MATHEUS%20AMORIM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 ---
+
 🧠 What I do
-🏗️ SaaS & High-scale systems
-⚡ Performance optimization
-🧩 Clean architecture & system design
-🔐 Secure APIs & authentication
-💳 Payments, subscriptions & business logic
-🤖 Automation & integrations
-📊 Dashboards & analytics
-🎓 Teaching & mentoring developers
+🏗️ Back-end development with Java & Spring Boot  
+🧩 REST APIs & system design  
+🗄️ Relational databases (PostgreSQL)  
+🔐 Authentication & business rules  
+📚 Constant learning and hands-on projects  
+
 ---
+
 🛠️ Tech Stack
-Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
-Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+Backend  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+Database  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
 ---
+
 📊 GitHub Stats
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maarimo&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarimo&layout=compact&theme=tokyonight" />
 </p>
----
-🚀 Philosophy
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
----
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
+---
+
+🚀 Philosophy
+> _"I learn by doing. The goal is not just to code, but to understand and build solutions that make sense."_
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Open to opportunities as a Junior Developer
