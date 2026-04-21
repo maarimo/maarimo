@@ -61,15 +61,3 @@ Tools
 > _"I learn by doing. The goal is not just to code, but to understand and build solutions that make sense."_
 
 ---
-
-⭐ If you like my work, consider starring a repository  
-🤝 Open to opportunities as a Junior Developer
----
-
-🚀 Philosophy
-> _"I learn by doing. The goal is not just to code, but to understand and build solutions that make sense."_
-
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Open to opportunities as a Junior Developer
