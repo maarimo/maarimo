@@ -132,9 +132,4 @@ Estou em busca da minha primeira oportunidade como Desenvolvedor Back-end Java, 
 
 ---
 
-## 📫 Contato
-
-- LinkedIn: https://linkedin.com/in/SEU-LINK
-- Email: seuemail@email.com
-
 Obrigado por visitar meu perfil! 😄
